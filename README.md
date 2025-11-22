@@ -176,3 +176,5 @@ Content-Type: multipart/form-data
 - OTP verification for sensitive operations
 - Owner-only access for content management
 - Password encryption with salt rounds
+
+## This repository was recreated after the original one became unusable due to an accidental rebase. The project files were restored from a local backup (ZIP) I had saved for transfer purposes. Because of this reset, the commit history does not reflect the original development timeline. Please be aware that although this appears as a new repository, it contains the same project and is not a newer or updated technology—just a restored copy.
